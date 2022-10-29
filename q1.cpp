@@ -30,13 +30,13 @@ int main()
 }
 
 void getinput(int &n1, int &n2) {
-	cout << "Enter 2 integers: ";
+	// cout << "Enter 2 integers: ";
 	cin >> n1 >> n2;
 	cout << endl;
 }
 
 void getinput(float &n1, float &n2) {
-	cout << "Enter 2 floats: ";
+	// cout << "Enter 2 floats: ";
 	cin >> n1 >> n2;
 	cout << endl;
 }
