@@ -20,12 +20,12 @@ int main()
 	getinput(fnum1, fnum2);
 	cout << setprecision(2) << 
 	fnum1 << setprecision(2) << 
-	" " <<
+	
 	fnum2 << setprecision(2) << endl;
 	swapTwoValues(fnum1, fnum2);
 	cout << setprecision(2) << 
 	fnum1 << setprecision(2) << 
-	" " <<
+	
 	fnum2 << setprecision(2) << endl;
 }
 
