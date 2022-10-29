@@ -18,8 +18,8 @@ int main()
 	cout << " After Swap " << setw(5) << num1 << setw(5) << num2 << setw(5) << endl;
 
 	getinput(fnum1, fnum2);
-	cout << " Before Swap " << setprecision(2) << " " <<
-	fnum1 << setprecision(2) << 
+	cout << " Before Swap " << setprecision(2) <<
+	fnum1 << " " << setprecision(2) << 
 	
 	fnum2 << setprecision(2) << endl;
 	swapTwoValues(fnum1, fnum2);
